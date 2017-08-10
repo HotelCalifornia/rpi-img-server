@@ -1,0 +1,45 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/hoisie/web",
+			"repository": "https://github.com/hoisie/web",
+			"revision": "a498c022b2c0babab2bf9c0400754190b24c8c39",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/loranbriggs/go-camera",
+			"repository": "https://github.com/loranbriggs/go-camera",
+			"revision": "b952d09fa40482412cd50c532c087445f6969b5e",
+			"branch": "master"
+		},
+		{
+			"importpath": "golang.org/x/crypto/pbkdf2",
+			"repository": "https://go.googlesource.com/crypto",
+			"revision": "b176d7def5d71bdd214203491f89843ed217f420",
+			"branch": "master",
+			"path": "/pbkdf2"
+		},
+		{
+			"importpath": "golang.org/x/crypto/ssh/terminal",
+			"repository": "https://go.googlesource.com/crypto",
+			"revision": "b176d7def5d71bdd214203491f89843ed217f420",
+			"branch": "master",
+			"path": "/ssh/terminal"
+		},
+		{
+			"importpath": "golang.org/x/net/websocket",
+			"repository": "https://go.googlesource.com/net",
+			"revision": "1c05540f6879653db88113bc4a2b70aec4bd491f",
+			"branch": "master",
+			"path": "/websocket"
+		},
+		{
+			"importpath": "golang.org/x/sys/unix",
+			"repository": "https://go.googlesource.com/sys",
+			"revision": "e42485b6e20ae7d2304ec72e535b103ed350cc02",
+			"branch": "master",
+			"path": "/unix"
+		}
+	]
+}
